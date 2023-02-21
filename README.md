@@ -5,3 +5,5 @@ Research project on reducing gender bias in NLP by modifying the optimization ob
 
 For the complete code and files (including word embeddings and lists), please refer to this [Google Drive folder]
 (https://drive.google.com/drive/folders/1NoYu-tq57bpiNzruCQmnu1NOLSsxjfHQ?usp=sharing).
+
+[test](https://www.linkedin.com/in/xiyue-jasmine-zhang/)
